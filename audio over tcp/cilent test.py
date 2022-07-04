@@ -1,8 +1,8 @@
 import pyaudio
 import socket
 
-ip = "127.0.0.1"
-port = 35
+ip = "3.134.125.175"
+port = 15845
 
 audio_rate = 44100
 Audio_format = pyaudio.paInt16
